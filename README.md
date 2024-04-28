@@ -42,5 +42,5 @@
 <h1 align='center'>⚡️<i>Code , explore , repeat </i>⚡️</h1>
 
 <p align="center">
-        <img src="https://steamuserimages-a.akamaihd.net/ugc/840330163393011921/48BF4C136A3D95F94B7EC9E1C828915B4775909A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Github Stats" />
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/840330163393011921/48BF4C136A3D95F94B7EC9E1C828915B4775909A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Github Stats" style="max-width: 100%; height: auto;" />
 </p>
