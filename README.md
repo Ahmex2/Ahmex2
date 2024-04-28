@@ -1,14 +1,63 @@
 <h1 align="center">Hi 👋, I'm Ahmed Sand</h1>
 <h3 align="center">Software Development Engineer - AI and Automation Specialist</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmex2" alt="ahmex2" /></a> </p>
 <p align="right">
   <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Image">
 </p>
+<style>
+.contact-info {
+  text-align: right;
+}
 
-- 💬 Ask me about **software development, AI, and automation**
+.contact-heading {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
 
-- 📫 How to reach me **mado.baleegh111@gmail.com**
+.contact-list {
+  list-style: none;
+  padding: 0;
+}
+
+.contact-item {
+  font-size: 1rem;
+  margin-bottom: 5px;
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.contact-item span {
+  display: inline-block;
+}
+
+.animated-email {
+  position: relative;
+}
+
+.animated-email::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background-color: #f9a826; /* Animation color */
+  transform: scaleX(0);
+  transition: transform 0.3s ease;
+}
+
+.animated-email:hover::after {
+  transform: scaleX(1);
+}
+</style>
+
+<div class="contact-info">
+  <p class="contact-heading">Contact Information</p>
+  <ul class="contact-list">
+    <li class="contact-item">💬 Ask me about <span>software development, AI, and automation</span></li>
+    <li class="contact-item">📫 How to reach me <span class="animated-email">mado.baleegh111@gmail.com</span></li>
+  </ul>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
