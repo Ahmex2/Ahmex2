@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahmed Sand</h1>
-<h3>
-  <marquee direction="left" behavior="scroll" scrollamount="5" align="center" width="100%">
-    Software Development Engineer - AI and Automation Specialist
-  </marquee>
-</h3>
+<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGDs3QqpK4&#x2F;8JkbaDBYEJvt5TTz96EQOw&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGDs3QqpK4&#x2F;8JkbaDBYEJvt5TTz96EQOw&#x2F;watch?utm_content=DAGDs3QqpK4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Software Development Engineer - AI and Automation Specialist</a>
 <p align="right">
   <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Image">
 </p>
