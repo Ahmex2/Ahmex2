@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Sand</h1>
+<h1 style="text-align: center;">Hi <span style="font-size: 1.2em; vertical-align: middle;">✋🏻👀</span>, I'm Ahmed Sand</h1>
 <h3 align="center">Software Development Engineer - AI and Automation Specialist</h3>
 
 <p align="right">
