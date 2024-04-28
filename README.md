@@ -6,10 +6,10 @@
   <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Image" width="200">
 </p>
 <div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <h2 style="color: #333;">About Me</h2>
-  <p style="color: #555;">I'm Ahmed Sand, a Software Development Engineer specializing in AI and Automation. I'm passionate about leveraging technology to solve complex problems and improve efficiency.</p>
-  <p style="color: #555;">In my free time, I enjoy coding, exploring new technologies, and contributing to open-source projects.</p>
+  <h2 style="color: #333; text-align: center;">About Me</h2>
+  <p style="color: #555; text-align: center;">I'm Ahmed Sand, a Software Development Engineer specializing in AI and Automation. I'm passionate about leveraging technology to solve complex problems and improve efficiency. In my free time, I enjoy coding, exploring new technologies, and contributing to open-source projects.</p>
 </div>
+
 
 
 <p align="right">
