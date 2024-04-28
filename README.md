@@ -39,3 +39,8 @@
 <a href="https://github.com/ahmex2"><img alt="Ahmed's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmex2&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/ahmex2"><img alt="Ahmed's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmex2&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300px"/></a>
 <a href="https://stats.hyochan.dev/en/stats/ahmex2"><img src="https://stats.hyochan.dev/api/github-stats?login=ahmex2" width="600" /></a>
+<h1 align='center'>⚡️<i>Code , explore , repeat </i>⚡️</h1>
+
+<p align="center">
+        <img src="https://steamuserimages-a.akamaihd.net/ugc/840330163393011921/48BF4C136A3D95F94B7EC9E1C828915B4775909A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Github Stats" />
+</p>
