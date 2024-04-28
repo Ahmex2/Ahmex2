@@ -29,7 +29,7 @@
 <a href="https://instagram.com/ps_df2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ps_df2" height="30" width="40" /></a>
 </p>
 <a href="https://wa.me/201270240305" target="_blank">
-  <img align="center" src="https://i.ibb.co/DGLpYss/whatsapp-icon.png" alt="WhatsApp" height="30" width="30" />
+  <img align="center" src="https://i.ibb.co/DGLpYss/whatsapp-icon.png" alt="WhatsApp" height="30" width="40" />
 </a>
 
 
